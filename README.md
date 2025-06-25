@@ -19,9 +19,6 @@ This project uses a simple linear regression model to predict student exam score
 - Predicts scores for new input (e.g., 9.25 hours)
 - Evaluates performance using MAE, MSE, RMSE
 
-## 📸 Visuals
-![Regression Line](images/regression_plot.png)
-![Prediction Output](images/prediction_output.png)
 
 ## ✅ How to Run
 Just open the notebook in Google Colab or Jupyter Notebook and run all cells!
